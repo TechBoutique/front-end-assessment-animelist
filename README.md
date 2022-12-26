@@ -1,3 +1,4 @@
+
 # front-end-assessment-animelist 
 
 ## _XcionTech Front End Assessment_
@@ -17,8 +18,7 @@
 Create a Anime Listing website using a public API https://jikan.moe/ . Make it as dope as possible. 
 
 ### Screens: 
-1. Home screen - This screen should show some random animes at first on opening website. It should have following features:
-    a. A search functionality to search among the anime. Give various options on search with various parameters as mentioned in the API Doc : https://docs.api.jikan.moe/#tag/anime/operation/getAnimeSearch  
+1. Home screen - This screen should show some random animes at first on opening website. A search functionality to search among the anime. Give various options on search with various parameters as mentioned in the API Doc : https://docs.api.jikan.moe/#tag/anime/operation/getAnimeSearch  
 2. Detailed View - On clicking on any search result it should show details of each anime searched using another end point. 
  
 
